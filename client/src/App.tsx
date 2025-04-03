@@ -12,7 +12,7 @@ function App() {
   }, []);
 
   return (
-    <div>
+    <div id="app">
       <h1>Task Overflow</h1>
       <p>Backend says: {message}</p>
     </div>
