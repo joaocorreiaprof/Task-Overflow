@@ -1,0 +1,21 @@
+{
+  "name": "task-overflow",
+  "version": "1.0.0",
+  "description": "A dynamic to-do list for the organized chaos in your life. Overflowing with tasks, but always under control. Prioritize, tackle, and conquer your day one task at a time.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaocorreiaprof/Task-Overflow.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/joaocorreiaprof/Task-Overflow/issues"
+  },
+  "homepage": "https://github.com/joaocorreiaprof/Task-Overflow#readme"
+}
